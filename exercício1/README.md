@@ -6,6 +6,6 @@ Exercício desenvolvido para práticar a Programação Orientada a Objeto.
 ### Tecnologias Utilizadas 🚀
 - Java ☕
 - Visual Studio Code 🆚
-- Git Bash
-- Github
+- Git Bash <img width="18" height="18" src="https://img.icons8.com/color/18/git.png" alt="git"/>
+- Github <img width="18" height="18" src="https://img.icons8.com/fluency/18/github.png" alt="github"/>
 
